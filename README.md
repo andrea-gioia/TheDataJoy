@@ -1,7 +1,10 @@
 Shield: [![CC BY 4.0][cc-by-shield]][cc-by]
 
 # Data bites
-TODO
+
+In this repository, you'll find the images used in some posts published on my [LinkedIn profile](https://www.linkedin.com/in/andreagioia/) with the hashtag #databites
+
+⭐ the repo if you like the images. [Follow me on LinkedIn](www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=andreagioia) if you like the posts.
 
 # License
 This work is licensed under a

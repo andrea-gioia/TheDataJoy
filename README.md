@@ -6,7 +6,7 @@ In this repository, you'll find the images used in some posts published on my [L
 
 ⭐ the repo if you like the images. 
 
-[Follow me on LinkedIn](www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=andreagioia) if you like the posts.
+[Follow me on LinkedIn](https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=andreagioia) if you like the posts.
 
 # License
 This work is licensed under a

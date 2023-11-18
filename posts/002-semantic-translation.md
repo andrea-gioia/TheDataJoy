@@ -25,9 +25,9 @@ Which approach do you usually follow? 1️⃣, 2️⃣, 3️⃣ , or something e
 
 ## Image
 
-![002-semantic-translation-decentralized.png](images/002-semantic-translation-decentralized.png "Decentralized Semantic Trannslation")
+![002-semantic-translation-decentralized.png](../images/002-semantic-translation-decentralized.png "Decentralized Semantic Trannslation")
 
-[draw.io](https://app.diagrams.net/) source of the image is available [here](images/002-semantic-translation-decentralized.drawio) 
+[draw.io](https://app.diagrams.net/) source of the image is available [here](../images/002-semantic-translation-decentralized.drawio) 
 
 ![003-semantic-translation-centralized.png](002-semantic-translation-centralized.png "Centralized Semantic Trannslation")
 

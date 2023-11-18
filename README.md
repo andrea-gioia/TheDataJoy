@@ -1,6 +1,6 @@
 Shield: [![CC BY 4.0][cc-by-shield]][cc-by]
 
-# Data bites
+# The Data Joy
 
 In this repository, you'll find the images used in some posts published on my [LinkedIn profile](https://www.linkedin.com/in/andreagioia/) with the hashtag [#TheDataJoy](https://www.linkedin.com/feed/hashtag/?keywords=thedatajoy)
 

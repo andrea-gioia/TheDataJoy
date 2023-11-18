@@ -7,11 +7,13 @@ Semantic Ownership: shift left or right? 🤔
 
 🗓 If you'll be at Big Data LDN next week, I'll present on this topic, delving into more detail. In the following weeks, I'll distill the presentation's content into a dedicated blog post. 
 
-[#TheDataJoy](https://www.linkedin.com/feed/hashtag/?keywords=thedatajoy) #dataproducts #semantic #ontology 
+[#TheDataJoy](https://www.linkedin.com/feed/hashtag/?keywords=thedatajoy) **#dataproducts #semantic #ontology** 
 
 ## Image
 
 ![001-semantic-gap.png](/images/001-semantic-gap.png "Semantic Gap")
+
+[draw.io](https://app.diagrams.net/) source of the image is available [here](images/001-semantic-gap.drawio) 
 
 ## Follow the conversation
 

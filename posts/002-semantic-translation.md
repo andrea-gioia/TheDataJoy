@@ -39,4 +39,4 @@ Which approach do you usually follow? 1️⃣, 2️⃣, 3️⃣ , or something e
 
 ## Follow the conversation
 
-🔵 [Linkedin post]([https://www.linkedin.com/posts/andreagioia_thedatajoy-dataproducts-semantic-activity-7108508012373274624-a3R0](https://www.linkedin.com/posts/andreagioia_approaches-to-semantic-translation-activity-7109130116558970880-MqUz?utm_source=share&utm_medium=member_desktop)https://www.linkedin.com/posts/andreagioia_approaches-to-semantic-translation-activity-7109130116558970880-MqUz)
+🔵 [Linkedin post](https://www.linkedin.com/posts/andreagioia_approaches-to-semantic-translation-activity-7109130116558970880-MqUz)

@@ -29,13 +29,13 @@ Which approach do you usually follow? 1️⃣, 2️⃣, 3️⃣ , or something e
 
 [draw.io](https://app.diagrams.net/) source of the image is available [here](../images/002-semantic-translation-decentralized.drawio) 
 
-![003-semantic-translation-centralized.png](002-semantic-translation-centralized.png "Centralized Semantic Trannslation")
+![003-semantic-translation-centralized.png](../images/003-semantic-translation-centralized.png "Centralized Semantic Trannslation")
 
-[draw.io](https://app.diagrams.net/) source of the image is available [here](002-semantic-translation-centralized.drawio)
+[draw.io](https://app.diagrams.net/) source of the image is available [here](../images/003-semantic-translation-centralized.drawio)
 
-![003-semantic-translation-federated.png](002-semantic-translation-federated.png "Federated Semantic Trannslation")
+![004-semantic-translation-federated.png](../images/004-semantic-translation-federated.png "Federated Semantic Trannslation")
 
-[draw.io](https://app.diagrams.net/) source of the image is available [here](002-semantic-translation-federated.drawio) 
+[draw.io](https://app.diagrams.net/) source of the image is available [here](../images/004-semantic-translation-federated.drawio) 
 
 ## Follow the conversation
 

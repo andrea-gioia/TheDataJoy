@@ -31,4 +31,4 @@ Here are the key steps to follow to prevent the development of oversized or misa
 
 ## Follow the conversation
 
-🔵 [Linkedin post]([https://www.linkedin.com/posts/andreagioia_approaches-to-semantic-translation-activity-7109130116558970880-MqUz](https://www.linkedin.com/feed/update/urn:li:activity:7118177904680693760/)https://www.linkedin.com/feed/update/urn:li:activity:7118177904680693760/)
+🔵 [Linkedin post](https://www.linkedin.com/feed/update/urn:li:activity:7118177904680693760/)

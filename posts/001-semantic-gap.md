@@ -15,6 +15,10 @@ Semantic Ownership: shift left or right? 🤔
 
 [draw.io](https://app.diagrams.net/) source of the image is available [here](images/001-semantic-gap.drawio) 
 
+## Video
+
+[![Semantic Data Product @ BigData LND 2023](https://img.youtube.com/vi/ap8pWiRBvJQ/0.jpg)](https://www.youtube.com/watch?v=ap8pWiRBvJQ)
+
 ## Follow the conversation
 
 🔵 [Linkedin post](https://www.linkedin.com/posts/andreagioia_thedatajoy-dataproducts-semantic-activity-7108508012373274624-a3R0)

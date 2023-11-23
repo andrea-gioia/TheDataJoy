@@ -17,7 +17,9 @@ Semantic Ownership: shift left or right? 🤔
 
 ## Video
 
-[![Semantic Data Product @ BigData LND 2023](https://img.youtube.com/vi/ap8pWiRBvJQ/0.jpg)](https://www.youtube.com/watch?v=ap8pWiRBvJQ)
+The recording of the talk given at [Big Data LND 2023](https://bigdataldn.com/seminar-schedule/semantic-data-product/)
+
+[![Semantic Data Product @ Big Data LND 2023](https://img.youtube.com/vi/ap8pWiRBvJQ/0.jpg)](https://www.youtube.com/watch?v=ap8pWiRBvJQ)
 
 ## Follow the conversation
 

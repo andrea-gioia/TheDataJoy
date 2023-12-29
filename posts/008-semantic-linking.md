@@ -18,6 +18,7 @@ From Knowledge GAP to Knowledge GRAPH...
 🔵 Semantic links can be directly included as an annotation within the schema to indicate the concept/attribute to which a schema/field refers in the shared ontology. The value of the annotation is nothing but the URI of the referenced concept/property.
 
 🔵 During the deployment of the data product, the CI/CD procedure can validate these semantic annotations and trigger a process to add the reference to the factual data exposed by the port to the KG
+
 [#TheDataJoy](https://www.linkedin.com/feed/hashtag/?keywords=thedatajoy) **#datamodeling #dataproducts #datamesh**
 
 ## Image

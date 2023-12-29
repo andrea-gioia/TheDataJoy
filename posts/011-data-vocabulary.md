@@ -1,22 +1,22 @@
 # Data Vocabulary
 
 ## Post
-Are your data products interoperable? At which level? 🤔
+🌐 In data-driven organizations, data is everyone's business. It's crucial, therefore, to reconsider the key terms we use to define the essential capabilities foundational to data management. Terms like "Ingest," "process," and "share" carry a technical weight that lacks inclusivity.
 
-In a modular architecture built through the composition of data products, striking a balance between the local independence of individual components and the global need for their interoperability is crucial.
+I recently heard Michael Atkin define the core capabilities of data management as "Identify", "Describe", and "Standardize" on the Ruben Sardaryan podcast.
 
-Without proper equilibrium, the system is at risk of going out of control (chaos catastrophe).
+1️⃣ Identify: 🧐 Gathering data should not be done blindly. It is vital to first ascertain which data are crucial to collect and the reasons for it. Whereas ingestion is solely a technical task, the identification of valuable data implicates everyone.
 
-Different levels of interoperability are possible...
+2️⃣ Describe: 📚 Data should not just be mechanically processed. Understanding what the data signify and how to shape them for their eventual application is key. Processing is a technical function, but data modeling is a collective endeavor.
 
-🔗 Syntactic Interoperability: Ensuring data products speak the same language by focusing on data format and structure. It's like making sure everyone's reading from the same data playbook. Defining policies and rules to guarantee syntactic interoperability is a responsibility of the federated governance team.
+3️⃣ Standardize: 📏 Data sharing is not just about distribution. It's essential to standardize data both syntactically and semantically to assure interoperability. Sharing may be technical, but standardization requires a collective effort.
 
-💼 Semantic Interoperability: Taking it up a notch! Beyond structure, it's about ensuring a shared understanding of data meaning. No more data misinterpretation – it's all about a unified understanding of the data's semantics. Defining a unified semantic model is a responsibility of the federated modeling team.
+If we believe in the idea that the language we use can shape the way we think and behave (Sapir–Whorf hypothesis), then this basic vocabulary seems to me more appropriate for the purpose of reducing barriers between business and data teams.
 
-In the world of data management, both syntactic and semantic interoperability play pivotal roles. It's not just about formatting; it's about speaking the same language and truly understanding the message.
+What do you think? 💭🤷‍♂️🤷‍♀️
 
 
-[#TheDataJoy](https://www.linkedin.com/feed/hashtag/?keywords=thedatajoy) **#datamodeling #datamanagement**
+[#TheDataJoy](https://www.linkedin.com/feed/hashtag/?keywords=thedatajoy) **#datamanagement**
 
 ## Image
 
@@ -26,4 +26,4 @@ In the world of data management, both syntactic and semantic interoperability pl
 
 ## Follow the conversation
 
-🔵 [Linkedin post](https://www.linkedin.com/feed/update/urn:li:activity:7131313977480900608/)
+🔵 [Linkedin post](https://www.linkedin.com/feed/update/urn:li:activity:7128060189852774400/)

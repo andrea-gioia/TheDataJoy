@@ -1,4 +1,4 @@
-# Use cases-driven semantic modeling
+# Knowledge Graph
 
 ## Post
 
@@ -18,7 +18,7 @@ P.S. The connections between concepts and instances (semantic links) essentially
 
 ## Image
 
-![005-semantic-modeling.png](../images/007-knowledge-graph.png "Knowledge Graph")
+![007-knowledge-graph.png](../images/007-knowledge-graph.png "Knowledge Graph")
 
 [draw.io](https://app.diagrams.net/) source of the image is available [here](../images/007-knowledge-graph.drawio) 
 

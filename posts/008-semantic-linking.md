@@ -1,4 +1,4 @@
-# Use cases-driven semantic modeling
+# Semantic Linking
 
 ## Post
 From Knowledge GAP to Knowledge GRAPH...
@@ -23,7 +23,7 @@ From Knowledge GAP to Knowledge GRAPH...
 
 ## Image
 
-![005-semantic-modeling.png](../images/008-semantic-linking.png "Semantic Linking")
+![008-semantic-linking.png](../images/008-semantic-linking.png "Semantic Linking")
 
 [draw.io](https://app.diagrams.net/) source of the image is available [here](../images/008-semantic-linking.drawio) 
 

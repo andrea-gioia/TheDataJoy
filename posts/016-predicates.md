@@ -28,7 +28,7 @@ The structure of a predicate determines the expressiveness of the model and its 
 
 ## Follow the conversation
 
-🔵 [Linkedin post](https://www.linkedin.com/feed/update/urn:li:activity:7131313977480900608/)
+🔵 [Linkedin post](https://www.linkedin.com/posts/andreagioia_thedatajoy-datamodeling-knowledgegraphs-activity-7152648319448580096-u8UX)
 
 
 

@@ -22,9 +22,9 @@ The structure of a predicate determines the expressiveness of the model and its 
 
 ## Image
 
-![015-predicates.png](../images/015-predicates.png)
+![015-predicate.png](../images/015-predicate.png)
 
-[draw.io](https://app.diagrams.net/) source of the image is available [here](../images/015-predicates.drawio) 
+[draw.io](https://app.diagrams.net/) source of the image is available [here](../images/015-predicate.drawio) 
 
 ## Follow the conversation
 

@@ -25,6 +25,6 @@ A conceptual model explicitly and accurately represents...
 
 ## Follow the conversation
 
-🔵 [Linkedin post](https://www.linkedin.com/feed/update/urn:li:activity:7131313977480900608/)
+🔵 [Linkedin post](https://www.linkedin.com/posts/andreagioia_thedatajoy-datamodeling-activity-7148717083093090306-2o81)
 
 

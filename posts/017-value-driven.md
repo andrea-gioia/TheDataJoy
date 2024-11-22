@@ -33,7 +33,7 @@ Which approach do you follow?
 
 ## Follow the conversation
 
-🔵 [Linkedin post]https://www.linkedin.com/posts/andreagioia_thedatajoy-activity-7154107725344342017-tESH)
+🔵 [Linkedin post](https://www.linkedin.com/posts/andreagioia_thedatajoy-activity-7154107725344342017-tESH)
 
 
 

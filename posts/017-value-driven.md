@@ -33,7 +33,7 @@ Which approach do you follow?
 
 ## Follow the conversation
 
-🔵 [Linkedin post](https://www.linkedin.com/feed/update/urn:li:activity:7131313977480900608/)
+🔵 [Linkedin post](https://www.linkedin.com/services/page/4a86bb310842a9550b/)
 
 
 

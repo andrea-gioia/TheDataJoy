@@ -10,7 +10,7 @@ For me, a data product is essentially a software application. Like any software,
 
 However, not all software applications are data products. For an application to be considered a data product, it needs two key traits: it must be a product and offer functionalities directly driven by the data it manages. Let’s take a closer look at what these traits mean.
 
-![001-semantic-gap.png](/images/001-semantic-gap.png "Semantic Gap")
+![Data Products](./images/2024-B001-01-data-products.png)
 
 **A software application is a product when** it is developed following product management principles. Unlike applications built with a project-based approach, a product isn’t just about meeting a predefined set of requirements on time and budget (output). Instead, it focuses on solving a problem and delivering real value to users (outcome). Moreover, a product has an owner, and often a dedicated team, who drive its evolution over time, managing it through every stage of its lifecycle, from ideation to decommissioning.
 
@@ -24,7 +24,7 @@ To summarize, this is my definition of **data product**:
 ## Is a dashboard a data product?
 Based on this definition, dashboards and ML models are data products, right? If they are developed following product management principles, **my answer to this question is absolutely YES**. However, analytical applications such as dashboards and ML models are not the only possible type of data product. There are also data products that expose just data in its pure form, without building specific features on top of it, except for those necessary to facilitate management, access, and consumption. These pure data products are developed not to support a specific use case but to make a data asset easily reusable and composable with other data assets over time.
 
-IMAGE 2
+![Pure Data Products](./images/2024-B001-02-pure-data-products.png)
 
 In my book Managing Data As A Product, I focus on this specific type of data pure products, exploring how to design a socio-technical architecture that supports their development and sustainable evolution over time. Here’s my definition of a pure data product:
 
@@ -38,15 +38,15 @@ Data is an asset that only holds value when it is used. Pure data products don�
 
 The end user cares only about the result. They don’t mind whether an analytical application reimplements integration logic from scratch or relies on pure data products that can be reused in the future. In most cases, they will likely prefer the option that allows the analytical application to be implemented more quickly. When there is no existing portfolio of pure data products, the fastest option is always to implement ad-hoc integrations for the use case directly within the application, rather than developing pure data products first and then building the analytical application on top of them. However, in the medium term, this approach to implementing new use cases becomes unsustainable, due to high maintenance costs and data quality issues arising from multiple copies of the same data integrated with different logic by each analytical application.
 
-IMAGE 3
+![Engineering To Order](./images/2024-B001-03-engineering-to-order.png)
 
 Pure data products are a way to rationalize integration work related to key data assets within the organization, making them available to support multiple use cases. Pure data products are building blocks that allow data to be managed sustainably over time, controlling maintenance costs and ensuring quality.
 
-IMAGE 4
+![Composeg To Order](./images/2024-B001-04-compose-to-order.png)
 
 Pure data products and analytical applications are equally important, and they don’t make sense without each other. As we’ve discussed, it’s not practical to have analytical applications without supporting pure data products (*engineering to order*), because the overall data architecture wouldn’t be sustainable in the long run. On the other hand, it also doesn’t make sense to have pure data products that don’t support any analytical applications (*stock to order*), since unused data is simply a non-productive cost. The right approach is to develop pure data products and analytical applications in tandem, following a use case-driven approach (*compose to order*).
 
-IMAGE 5
+![Value Driven Prioritization](./images/2024-B001-05-value-driven-prioritization.png)
 
 ## Is a pure data product truly a product?
 Does it really make sense to call an application a product if it’s not directly used by business users? **My answer to this question is YES**. To be considered a product, an application needs users who recognize its value and may be willing to pay to use it. A DBMS is a product, just like a BI tool, even though the latter is used directly by the business while the former is not. Similarly, a pure data product is a product, just like an analytical application. The users may differ, but all the elements that define a product are there (ownership, lifecycle, users, etc.).
@@ -62,7 +62,7 @@ DWHs and Data Lakes are typically monolithic applications, and their complexity 
 
 Creating a modular platform allows this complexity to be broken down into smaller, more manageable parts that can be handled by the development team, or teams. This is why pure data products mustn’t be so big to exceed the cognitive capacity of the development team.
 
-IMAGE 6
+![Composeg To Order](./images/2024-B001-06-modularization.png)
 
 Data Lakes and DWHs are similar to monolithic transactional applications; they face the same problems in managing complexity. Instead, by leveraging the power of modularity, pure data products solve the problems of DWHs and Data Lakes, just as microservices solve the issues of monolithic transactional applications.
 

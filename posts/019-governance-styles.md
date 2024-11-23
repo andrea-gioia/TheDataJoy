@@ -5,6 +5,7 @@
 What is the best approach to **#datagovernance** for **#dataproduct** centric architectures?
 
 👍 Implementing rigid governance promotes standardization and composability of data products. 
+
 👎However, it simultaneously increases development costs and reduces business agility.
 
 🔴 With overly rigid governance, there is a risk that many teams may choose to avoid adopting the new data product-centered approach due to reduced agility and continuing to develop siloed data solutions.

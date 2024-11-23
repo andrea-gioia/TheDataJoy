@@ -10,7 +10,7 @@ For me, a data product is essentially a software application. Like any software,
 
 However, not all software applications are data products. For an application to be considered a data product, it needs two key traits: it must be a product and offer functionalities directly driven by the data it manages. Let’s take a closer look at what these traits mean.
 
-IMAGE 1
+![001-semantic-gap.png](/images/001-semantic-gap.png "Semantic Gap")
 
 **A software application is a product when** it is developed following product management principles. Unlike applications built with a project-based approach, a product isn’t just about meeting a predefined set of requirements on time and budget (output). Instead, it focuses on solving a problem and delivering real value to users (outcome). Moreover, a product has an owner, and often a dedicated team, who drive its evolution over time, managing it through every stage of its lifecycle, from ideation to decommissioning.
 

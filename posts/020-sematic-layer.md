@@ -1,4 +1,4 @@
-# Semantic Layer
+# Semantyc Layer
 
 ## Post
 
@@ -17,9 +17,9 @@ How much **#semantics** your **#semanticlayer** can handle?
 
 ## Image
 
-![020-semantyc-layer.png](../images/020-semantyc-layer.png)
+![020-semantic-layer.png](../images/020-semantic-layer.png)
 
-[draw.io](https://app.diagrams.net/) source of the image is available [here](../images/020-semantyc-layer.drawio) 
+[draw.io](https://app.diagrams.net/) source of the image is available [here](../images/020-semantic-layer.drawio) 
 
 ## Follow the conversation
 

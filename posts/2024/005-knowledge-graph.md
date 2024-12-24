@@ -18,7 +18,7 @@ P.S. The connections between concepts and instances (semantic links) essentially
 
 ## Image
 
-![2024-P007-knowledge-graph.png](/images/2024/2024-P007-knowledge-graph.png "Knowledge Graph")
+![2024-P005-knowledge-graph.png](/images/2024/2024-P005-knowledge-graph.png "Knowledge Graph")
 
 [draw.io](https://app.diagrams.net/) source of the image is available [here](/images/2024/2024.drawio) 
 

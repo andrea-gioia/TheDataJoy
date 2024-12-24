@@ -1,4 +1,4 @@
-# Semantyc Layer
+# Data Product Composability
 
 ## Post
 
@@ -13,6 +13,8 @@ Data product interoperability is not enough, composability is also needed
 🤓 For example, a puzzle piece is interoperable but not composable because it fits with others only in a specific configuration. A Lego block, on the other hand, is both interoperable and composable.
 
 ✅ For truly composable data products, seamless integration at the semantic level is crucial. This can be achieved by adopting a shared conceptual model, or **#ontology**, that allows data products to connect their managed data assets to a common semantic. 
+
+[#TheDataJoy](https://www.linkedin.com/feed/hashtag/?keywords=thedatajoy) 
 
 ![2024-P019-composability.png](/images/2024/2024-P019-composability.png)
 

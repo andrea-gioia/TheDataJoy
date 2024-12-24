@@ -29,7 +29,7 @@ Which approach do you follow?
 
 ![017-value-driven.png](../images/017-value-driven.png)
 
-[draw.io](https://app.diagrams.net/) source of the image is available [here](../images/017-value-driven.drawio) 
+[draw.io](https://app.diagrams.net/) source of the image is available [here](/images/2024/2024.drawio) 
 
 ## Follow the conversation
 

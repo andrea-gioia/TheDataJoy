@@ -18,7 +18,7 @@ P.s. I generally use the term **#semanticModeling** to refer to a type of concep
 
 ![005-semantic-modeling.png](../images/006-ontology.png "Ontology")
 
-[draw.io](https://app.diagrams.net/) source of the image is available [here](../images/006-ontology.drawio) 
+[draw.io](https://app.diagrams.net/) source of the image is available [here](/images/2024/2024.drawio) 
 
 ## Follow the conversation
 

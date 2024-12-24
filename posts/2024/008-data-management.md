@@ -29,7 +29,7 @@ Here are some corollaries to keep in mind 📝
 
 ![010-data-management](../images/010-data-management.png "Data Management")
 
-[draw.io](https://app.diagrams.net/) source of the image is available [here](../images/010-data-management.drawio) 
+[draw.io](https://app.diagrams.net/) source of the image is available [here](/images/2024/2024.drawio) 
 
 ## Follow the conversation
 

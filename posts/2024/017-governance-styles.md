@@ -32,7 +32,7 @@ What do you think?
 
 ![019-governance-styles.png](../images/019-governance-styles.png)
 
-[draw.io](https://app.diagrams.net/) source of the image is available [here](../images/019-governance-styles.drawio) 
+[draw.io](https://app.diagrams.net/) source of the image is available [here](/images/2024/2024.drawio) 
 
 ## Follow the conversation
 

@@ -24,7 +24,7 @@ Which approach do you prefer and why? What are the advantages and disadvantages 
 
 ![013-LinkingByCopy.png](../images/013-LinkingByReference.png "ByCopy")
 
-[draw.io](https://app.diagrams.net/) source of the image is available [here](../images/013-LinkingByCopy.drawio) 
+[draw.io](https://app.diagrams.net/) source of the image is available [here](/images/2024/2024.drawio) 
 
 
 ![013-LinkingByReference.png](../images/013-LinkingByReference.png "ByReference")

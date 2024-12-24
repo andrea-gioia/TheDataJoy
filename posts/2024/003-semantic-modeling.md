@@ -25,9 +25,9 @@ Here are the key steps to follow to prevent the development of oversized or misa
 
 ## Image
 
-![005-semantic-modeling.png](../images/005-semantic-modeling.png "Semantic Modelling")
+![2024-P003-semantic-modeling](/images/2024/2024-P003-semantic-modeling.png "Semantic Modelling")
 
-[draw.io](https://app.diagrams.net/) source of the image is available [here](../images/005-semantic-modeling.drawio) 
+[draw.io](https://app.diagrams.net/) source of the image is available [here](/images/2024/2024.drawio) 
 
 ## Follow the conversation
 

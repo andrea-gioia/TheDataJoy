@@ -19,7 +19,7 @@ How much **#semantics** your **#semanticlayer** can handle?
 
 ![020-semantic-layer.png](../images/020-semantic-layer.png)
 
-[draw.io](https://app.diagrams.net/) source of the image is available [here](../images/020-semantic-layer.drawio) 
+[draw.io](https://app.diagrams.net/) source of the image is available [here](/images/2024/2024.drawio) 
 
 ## Follow the conversation
 

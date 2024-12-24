@@ -21,7 +21,7 @@ A conceptual model explicitly and accurately represents...
 
 ![014-semantic-modeling.png](../images/014-semantic-modeling.png)
 
-[draw.io](https://app.diagrams.net/) source of the image is available [here](../images/014-semantic-modeling.drawio) 
+[draw.io](https://app.diagrams.net/) source of the image is available [here](/images/2024/2024.drawio) 
 
 ## Follow the conversation
 

@@ -16,7 +16,7 @@ Data product interoperability is not enough, composability is also needed
 
 ![021-composability.png](../images/021-composability.png)
 
-[draw.io](https://app.diagrams.net/) source of the image is available [here](../images/021-composability.drawio) 
+[draw.io](https://app.diagrams.net/) source of the image is available [here](/images/2024/2024.drawio) 
 
 ## Follow the conversation
 

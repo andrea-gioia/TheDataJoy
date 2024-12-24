@@ -25,17 +25,17 @@ Which approach do you usually follow? 1️⃣, 2️⃣, 3️⃣ , or something e
 
 ## Image
 
-![002-semantic-translation-decentralized.png](../images/2024/2024-P002-01-semantic-translation.png "Decentralized Semantic Trannslation")
+![2024-P002-01-semantic-translation.png](/images/2024/2024-P002-01-semantic-translation.png "Decentralized Semantic Trannslation")
 
-[draw.io](https://app.diagrams.net/) source of the image is available [here](../images/002-semantic-translation-decentralized.drawio) 
+[draw.io](https://app.diagrams.net/) source of the image is available [here](/images/2024/2024.drawio) 
 
-![003-semantic-translation-centralized.png](../images/2024/2024-P002-02-translation.png "Centralized Semantic Trannslation")
+![2024-P002-02-semantic-translation.png](/images/2024/2024-P002-02-semantic-translation.png "Centralized Semantic Trannslation")
 
-[draw.io](https://app.diagrams.net/) source of the image is available [here](../images/003-semantic-translation-centralized.drawio)
+[draw.io](https://app.diagrams.net/) source of the image is available [here](/images/2024/2024.drawio) 
 
-![004-semantic-translation-federated.png](../images/2024/2024-P002-03-translation.png "Federated Semantic Trannslation")
+![2024-P002-03-semantic-translation.png](/images/2024/2024-P002-03-semantic-translation.png "Federated Semantic Trannslation")
 
-[draw.io](https://app.diagrams.net/) source of the image is available [here](../images/004-semantic-translation-federated.drawio) 
+[draw.io](https://app.diagrams.net/) source of the image is available [here](/images/2024/2024.drawio) 
 
 ## Follow the conversation
 

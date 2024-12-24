@@ -14,7 +14,7 @@ Data product interoperability is not enough, composability is also needed
 
 ✅ For truly composable data products, seamless integration at the semantic level is crucial. This can be achieved by adopting a shared conceptual model, or **#ontology**, that allows data products to connect their managed data assets to a common semantic. 
 
-![021-composability.png](../images/021-composability.png)
+![2024-P019-composability.png](/images/2024/2024-P019-composability.png)
 
 [draw.io](https://app.diagrams.net/) source of the image is available [here](/images/2024/2024.drawio) 
 

@@ -22,7 +22,7 @@ Such an ontology layered structure can be constructed using top-down, bottom-up,
 
 ## Image
 
-![009-ontology-layers.png](../images/009-ontology-layers.png "Ontology Layers")
+![2024-P007-ontology-layers.pn](/images/2024/2024-P007-ontology-layers.png "Ontology Layers")
 
 [draw.io](https://app.diagrams.net/) source of the image is available [here](/images/2024/2024.drawio) 
 

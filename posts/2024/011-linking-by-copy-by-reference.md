@@ -22,12 +22,12 @@ Which approach do you prefer and why? What are the advantages and disadvantages 
 
 ## Image
 
-![013-LinkingByCopy.png](../images/013-LinkingByReference.png "ByCopy")
+![2024-P011-01-LinkingByCopy.png](/images/2024/2024-P011-01-LinkingByCopy.png "ByCopy")
 
 [draw.io](https://app.diagrams.net/) source of the image is available [here](/images/2024/2024.drawio) 
 
 
-![013-LinkingByReference.png](../images/013-LinkingByReference.png "ByReference")
+![2024-P011-02-LinkingByReference.png](/images/2024/2024-P011-02-LinkingByReference.png "ByReference")
 
 [draw.io](https://app.diagrams.net/) source of the image is available [here](../images/013-LinkingByReference.drawio) 
 

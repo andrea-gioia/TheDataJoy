@@ -30,7 +30,7 @@ What do you think?
 
 ## Image
 
-![019-governance-styles.png](../images/019-governance-styles.png)
+![2024-P017-governance-styles.png](/images/2024/2024-P017-governance-styles.png)
 
 [draw.io](https://app.diagrams.net/) source of the image is available [here](/images/2024/2024.drawio) 
 

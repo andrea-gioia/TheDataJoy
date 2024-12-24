@@ -20,7 +20,7 @@ In the world of data management, both syntactic and semantic interoperability pl
 
 ## Image
 
-![012-Interoperability.png](../images/012-Interoperability.png "Semantic Modelling")
+![2024-P010-Interoperability.png](/images/2024/2024-P010-Interoperability.png "Semantic Modelling")
 
 [draw.io](https://app.diagrams.net/) source of the image is available [here](/images/2024/2024.drawio) 
 

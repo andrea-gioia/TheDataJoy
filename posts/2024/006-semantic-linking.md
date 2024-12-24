@@ -23,7 +23,7 @@ From Knowledge GAP to Knowledge GRAPH...
 
 ## Image
 
-![008-semantic-linking.png](../images/008-semantic-linking.png "Semantic Linking")
+![2024-P006-semantic-linking.png](/images/2024/2024-P006-semantic-linking.png "Semantic Linking")
 
 [draw.io](https://app.diagrams.net/) source of the image is available [here](/images/2024/2024.drawio) 
 

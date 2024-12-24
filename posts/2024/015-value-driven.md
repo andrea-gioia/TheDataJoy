@@ -27,7 +27,7 @@ Which approach do you follow?
 
 ## Image
 
-![017-value-driven.png](../images/017-value-driven.png)
+![2024-P015-value-driven.png](/images/2024/2024-P015-value-driven.png)
 
 [draw.io](https://app.diagrams.net/) source of the image is available [here](/images/2024/2024.drawio) 
 

@@ -20,7 +20,7 @@ What do you think? 💭🤷‍♂️🤷‍♀️
 
 ## Image
 
-![011-data-vocabulary](../images/011-data-vocabulary.png "Semantic Modelling")
+![2024-P009-data-vocabulary.png](/images/2024/2024-P009-data-vocabulary.png "Semantic Modelling")
 
 [draw.io](https://app.diagrams.net/) source of the image is available [here](/images/2024/2024.drawio)  
 

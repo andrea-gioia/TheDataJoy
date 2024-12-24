@@ -3,4 +3,4 @@
 
 ## 2024
 
-📌 [XXX](./2024/b001-pure-data-products/README.md) 
+📌 [XXX](./2024/b001-pure-data-products/xxx.md) 

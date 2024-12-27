@@ -1,4 +1,4 @@
-# Use cases-driven semantic modeling 5️⃣
+# Use cases-driven semantic modeling 🏆5️⃣
 
 ## Post
 

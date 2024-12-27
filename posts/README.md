@@ -25,7 +25,7 @@
 📌 [018-sematic-layer](./2024/018-sematic-layer.md)<br>
 📌 [019-composability](./2024/019-composability.md)<br>
 📌 [020-pbc](./2024/020-pbc.md)<br>
-📌 [021-semantic-search](./2024/021-semantic-search.md)<br>
+📌 [021-semantic-search](./2024/021-semantic-search.md) 4️⃣ with ~35K impressions <br>
 📌 [022-catalog-of-catalogs](./2024/022-catalog-of-catalogs.md)<br>
 📌 [023-data-product-catalog](./2024/023-data-product-catalog.md)<br>
 📌 [024-cataog-as-pltform](./2024/024-cataog-as-pltform.md)<br>

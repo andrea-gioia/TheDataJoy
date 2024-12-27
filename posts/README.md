@@ -3,12 +3,12 @@
 
 ## 2024
 
-🥇 🥈 🥉 
+ 🥈 🥉 5️⃣ 
 
 📌 [001-semantic-gap](./2024/001-semantic-gap.md)<br>
 📌 [002-semantic-translation](./2024/002-semantic-translation.md)<br>
 📌 [003-semantic-modeling](./2024/003-semantic-modeling.md)<br>
-📌 [004-ontology](./2024/004-ontology.md)<br>
+📌 [004-ontology](./2024/004-ontology.md) 5️⃣ with ~26K impressions <br>
 📌 [005-knowledge-graph](./2024/005-knowledge-graph.md)<br>
 📌 [006-semantic-linking](./2024/006-semantic-linking.md)<br>
 📌 [007-ontology-layers](./2024/007-ontology-layers.md)<br>
@@ -17,7 +17,7 @@
 📌 [010-Interoperability](./2024/010-Interoperability.md)<br>
 📌 [011-linking-by-copy-by-reference](./2024/011-linking-by-copy-by-reference.md)<br>
 📌 [012-semantic-modeling](./2024/012-semantic-modeling.md)<br>
-📌 [013-kos](./2024/013-kos.md)<br>
+📌 [013-kos](./2024/013-kos.md) 🥇 with ~130K impressions <br>
 📌 [014-predicates](./2024/014-predicates.md)<br>
 📌 [015-value-driven](./2024/015-value-driven.md)<br>
 📌 [016-recommoning](./2024/016-recommoning.md)<br>

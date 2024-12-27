@@ -1,5 +1,4 @@
-# Title
-Shiftig left metadata management
+# Shiftig left metadata management
 
 ## Post
 

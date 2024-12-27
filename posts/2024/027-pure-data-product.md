@@ -1,4 +1,4 @@
-# Pure Data Products
+# Pure Data Products 🏆🥉
 
 ## Post
 

@@ -3,8 +3,6 @@
 
 ## 2024
 
- 🥈  
-
 📌 [001-semantic-gap](./2024/001-semantic-gap.md)<br>
 📌 [002-semantic-translation](./2024/002-semantic-translation.md)<br>
 📌 [003-semantic-modeling](./2024/003-semantic-modeling.md)<br>
@@ -31,10 +29,10 @@
 📌 [024-cataog-as-pltform](./2024/024-cataog-as-pltform.md)<br>
 📌 [025-dpc-shift-left](./2024/025-dpc-shift-left.md)<br>
 📌 [026-dpc-components](./2024/026-dpc-components.md)<br>
-📌 [027-pure-data-product](./2024/027-pure-data-product.md) 🥉 with ~37K impressions <be> <br>
+📌 [027-pure-data-product](./2024/027-pure-data-product.md) 🥉 with ~37K impressions <br>
 📌 [028-pdp-ilities](./2024/028-pdp-ilities.md)<br>
 📌 [029-data-asset](./2024/029-data-asset.md)<br>
-📌 [030-data-domain](./2024/030-data-domain.md)<br>
+📌 [030-data-domain](./2024/030-data-domain.md) 🥈 with ~40K impressions <br>
 📌 [031-reorg](./2024/031-reorg.md)<br>
 📌 [032-ddd](./2024/032-ddd.md)<br>
 📌 [033-ubiquitous-language](./2024/033-ubiquitous-language.md)<br>
@@ -56,7 +54,7 @@
 📌 [049-knowledge-modeling](./2024/049-knowledge-modeling.md)<br>
 📌 [050-incremental-modeling](./2024/050-incremental-modeling.md)<br>
 📌 [051-ontology-as-source-of-facts](./2024/051-ontology-as-source-of-facts.md)<br>
-📌 [./2024/052-knowledge-mesh.md](./2024/./2024/052-knowledge-mesh.md)<br>
+📌 [052-knowledge-mesh]./2024/052-knowledge-mesh.md)<br>
 📌 [053-ekg-architectures](./2024/053-ekg-architectures.md)<br>
 📌 [054-knowledge-driven-data-access](./2024/054-knowledge-driven-data-access.md)<br>
 📌 [055-product-types](./2024/055-product-types.md)<br>

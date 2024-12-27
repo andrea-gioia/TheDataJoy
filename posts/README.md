@@ -3,7 +3,7 @@
 
 ## 2024
 
- 🥈 🥉 5️⃣ 
+ 🥈  
 
 📌 [001-semantic-gap](./2024/001-semantic-gap.md)<br>
 📌 [002-semantic-translation](./2024/002-semantic-translation.md)<br>
@@ -31,7 +31,7 @@
 📌 [024-cataog-as-pltform](./2024/024-cataog-as-pltform.md)<br>
 📌 [025-dpc-shift-left](./2024/025-dpc-shift-left.md)<br>
 📌 [026-dpc-components](./2024/026-dpc-components.md)<br>
-📌 [027-pure-data-product](./2024/027-pure-data-product.md)<br>
+📌 [027-pure-data-product](./2024/027-pure-data-product.md) 🥉 with ~37K impressions <be> <br>
 📌 [028-pdp-ilities](./2024/028-pdp-ilities.md)<br>
 📌 [029-data-asset](./2024/029-data-asset.md)<br>
 📌 [030-data-domain](./2024/030-data-domain.md)<br>

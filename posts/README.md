@@ -54,7 +54,7 @@
 📌 [049-knowledge-modeling](./2024/049-knowledge-modeling.md)<br>
 📌 [050-incremental-modeling](./2024/050-incremental-modeling.md)<br>
 📌 [051-ontology-as-source-of-facts](./2024/051-ontology-as-source-of-facts.md)<br>
-📌 [052-knowledge-mesh]./2024/052-knowledge-mesh.md)<br>
+📌 [052-knowledge-mesh](./2024/052-knowledge-mesh.md)<br>
 📌 [053-ekg-architectures](./2024/053-ekg-architectures.md)<br>
 📌 [054-knowledge-driven-data-access](./2024/054-knowledge-driven-data-access.md)<br>
 📌 [055-product-types](./2024/055-product-types.md)<br>

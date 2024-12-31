@@ -8,6 +8,8 @@ In this repository, you'll find the images used in some posts published on my [L
 
 [Follow me on LinkedIn](https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=andreagioia) if you like the posts.
 
+P.s. This year, I also created several illustrations for my new book, [Managing Data as a Product](https://a.co/d/40TPE9X). You can check them out [here](https://github.com/PacktPublishing/Managing-Data-as-a-Product/tree/main).
+
 # License
 This work is licensed under a
 [Creative Commons Attribution 4.0 International License][cc-by].

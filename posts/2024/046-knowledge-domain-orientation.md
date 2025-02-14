@@ -1,4 +1,4 @@
-# Knowledge DOmain Orientation
+# Knowledge Domain Orientation
 
 ## Post
 

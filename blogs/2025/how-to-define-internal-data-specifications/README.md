@@ -48,7 +48,9 @@ In this blog post, we’ll focus on defining an **object specification** in the 
 An object specification should clearly and unambiguously define how to describe the object of interest. In my experience, this can be achieved by defining the following three key elements in the specification:
 
 🗺️ A Metamodel
+
 📜 A Schema Definition Language (SDL)
+
 📚 Schema Annotation Vocabularies
 
 Let’s take a closer look at each of these.

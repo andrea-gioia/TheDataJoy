@@ -166,9 +166,14 @@ Like ODCS, DPDS not only defines the structure of the object of interest — in 
 In DPDS, each component of a data product has its dedicated vocabulary or set of associated vocabularies. For instance, every port, regardless of its specific type, can be annotated using keywords defined in one of the following three vocabularies:
 
 1. **Promises:** Contains all the keywords useful for specifying the intent of the port. Promises are not a guarantee of the outcome but the data product will behave accordingly to them to realize its intent. Examples of annotations defined in promises vocabulary are API, SLO, deprecation policy, etc.
+2. 
 1. **Expectations:** Contains all the keywords useful to specify how the port should be used by consumers. They are a way to explicitly state what promises the data product would like consumers to make regarding how they will use the port. Examples of annotations defined in expectations vocabulary are intended usage, intended audience, etc.
-1.**Obligations:** Contains all the keywords useful to specify promises and expectations that must be respected both by the data product and its consumers respectively. An obligation is an explicit agreement between the data product and its consumers. It is used to group all the promises and expectations that if not respected can generate penalties like monetary sanctions or interruption of service. Examples of annotations defined in obligations vacabulary are terms of conditions, SLA, billing policy, etc.
+2. 
+1. **Obligations:** Contains all the keywords useful to specify promises and expectations that must be respected both by the data product and its consumers respectively. An obligation is an explicit agreement between the data product and its consumers. It is used to group all the promises and expectations that if not respected can generate penalties like monetary sanctions or interruption of service. Examples of annotations defined in obligations vacabulary are terms of conditions, SLA, billing policy, etc.
 Here you can find a complete example of a data product described using DPDS.
+
+## Common overlaps
+Since, in managing the data-as-a-product paradigm, data assets and data products are closely related, it is natural for the two types of specifications to have some overlaps, even though their primary focus is on describing different objects.
 
 
 

@@ -103,9 +103,72 @@ Here you can find a [complete example of a data contract instance](https://bitol
 
 ![Data Product Descriptor Specification (DPDS)](./images/2025-B002-05-dpds.png)
 
+Since there is no single, universally accepted definition of a data product, all existing DPSs take an opinionated approach to how a data product should be structured and what its key components are. That said, the main DPSs currently available largely align with the concept of pure data products, where each product is made up of interfaces, often grouped into ports, and internal components, typically divided into application and infrastructural components.
 
+![Pure Data Product Structure](./images/2025-B002-06-pure-data-product-anatomy.png)
 
-  
+DPDS follows this vision of data product structure in defining its metamodel, which is illustrated at a high level in the following image.
+
+![DPDS Metamodel](./images/2025-B002-07-dpds-meta-model.png)
+
+Specifically, the DPDS metamodel describes a data product through a descriptor object that is composed of
+
+1. one object that contains all general information about the data product (**Info Object**),
+1. six types of ports (**Input, Output, Discoverability, Observability, and Control Ports**),
+1. three types of internal components (**Lifecycle Info, Application Components, and Infrastructural Components**).
+
+To define the structure of a specific data product, DPDS uses [JSON Schema](https://dpds.opendatamesh.org/specifications/dpds/1.0.0/schema/) as its schema definition language (SCD) accepting both YAML and JSON as encoding formats. 
+
+```json
+{
+    "dataProductDescriptor": "1.0.0",
+
+    "info": {
+        "name": "tripExecution",
+        "fqn": "urn:dpds:com.company-xyz:dataproducts:tripExecution:1"
+    },
+
+    "interfaceComponents": {
+      "inputPorts": [{
+        "name": "transportManagementSystem"
+        "fqn": "urn:dpds:com.company-xyz:dataproducts:tripExecution:1:outputports:transportManagementSystem",
+      }]
+      "outputPorts": [{
+        "name": "tripStatus",
+        "fqn": "urn:dpds:com.company-xyz:dataproducts:tripExecution:1:outputports:tripStatus",
+      }]
+   },
+
+   "internalComponents": {
+     "applicationComponents": [{
+       "name": "cdcIngestionApp",
+       "fqn": "urn:dpds:com.company-xyz:dataproducts:tripExecution:1:applications:cdcIngestionApp",
+     },{
+       "name": "eventProcessorApp",
+       "fqn": "urn:dpds:com.company-xyz:dataproducts:tripExecution:1:applications:eventProcessorApp",
+     }{
+       "name": "dbSinkConnectorApp",
+       "fqn": "urn:dpds:com.company-xyz:dataproducts:tripExecution:1:applications:dbSinkConnectorApp",
+     }],
+     "infrastructuralComponents": [{
+       "name": "eventStore",
+       "fqn": "urn:dpds:com.company-xyz:dataproducts:tripExecution:1:infrastructure:eventStore",
+     },{
+       "name": "stateStore",
+       "fqn": "urn:dpds:com.company-xyz:dataproducts:tripExecution:1:infrastructure:stateStore",
+     }]
+  }
+}
+```
+
+Like ODCS, DPDS not only defines the structure of the object of interest — in this case, a data product — but also allows for enriching it with additional metadata. To achieve this, keywords used for annotation are organized into vocabularies, grouping them based on function or the element they describe (e.g., API, SLO, usage, contact points, etc.).
+
+In DPDS, each component of a data product has its dedicated vocabulary or set of associated vocabularies. For instance, every port, regardless of its specific type, can be annotated using keywords defined in one of the following three vocabularies:
+
+1. **Promises:** Contains all the keywords useful for specifying the intent of the port. Promises are not a guarantee of the outcome but the data product will behave accordingly to them to realize its intent. Examples of annotations defined in promises vocabulary are API, SLO, deprecation policy, etc.
+1. **Expectations:** Contains all the keywords useful to specify how the port should be used by consumers. They are a way to explicitly state what promises the data product would like consumers to make regarding how they will use the port. Examples of annotations defined in expectations vocabulary are intended usage, intended audience, etc.
+1.**Obligations:** Contains all the keywords useful to specify promises and expectations that must be respected both by the data product and its consumers respectively. An obligation is an explicit agreement between the data product and its consumers. It is used to group all the promises and expectations that if not respected can generate penalties like monetary sanctions or interruption of service. Examples of annotations defined in obligations vacabulary are terms of conditions, SLA, billing policy, etc.
+Here you can find a complete example of a data product described using DPDS.
 
 
 

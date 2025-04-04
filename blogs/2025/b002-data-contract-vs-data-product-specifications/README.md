@@ -14,20 +14,20 @@ In this blog post, I will explore both perspectives using two key examples:
 - **[The Open Data Contract Standard (ODCS)](https://bitol-io.github.io/open-data-contract-standard/latest/)** from the [Bitol Project](https://bitol.io/) as an example of a data contract specification.
 - **[The Data Product Descriptor Specification (DPDS)](https://dpds.opendatamesh.org/specifications/dpds/1.0.0/)** from the [Open Data Mesh Initiative](https://initiative.opendatamesh.org/) as an example of a data product specification.
 
-By comparing these two approaches, I’ll show why they are not mutually exclusive but can work best when used together.
+By comparing these two approaches, I’ll show why they are **not mutually** exclusive but can work **best when used together**.
 
 ---
 ## What makes them different
 
-A pure data product is a software application that focuses on exposing data assets to potential consumers in a way that ensures their relevance, accuracy, usability, and composability over time. In summary, pure data products aim to increase the potential value of managed data assets by making them available for the implementation of multiple use cases over time.
+A **pure data product** is a software application that focuses on exposing data assets to potential consumers in a way that ensures their **relevance**, **accuracy**, **usability**, and **composability** over time. In summary, pure data products aim to increase the potential value of managed data assets by making them available for the implementation of multiple use cases over time.
 
-![Data Products](./images/2025-B002-01-pure-data-products.png)
+![Pure Data Products](./images/2025-B002-01-pure-data-product.png)
 
-A pure data product manages and makes one or more data assets available for use. Data Contract Specifications (DCS) focus on defining how to describe the data assets being shared, while Data Product Specifications (DPS) focus on how to describe the data products that handle and expose those assets.
+A pure data product manages and makes one or more data assets available for use. **Data Contract Specifications (DCS)** focus on defining how to describe the data assets being shared, while **Data Product Specifications (DPS)** focus on how to describe the data products that handle and expose those assets.
 
-![Data Products](./images/2025-B002-02-dps-vs-dcs.png)
+![DPS vs DCS](./images/2025-B002-02-dps-vs-dcs.png)
 
-A DCS can be used to describe a data asset from multiple perspectives, including:
+A DCS can be used to describe a **data asset** from multiple perspectives, including:
 
 - The data model
 - Constraints applied to different elements of the model
@@ -37,7 +37,7 @@ A DCS can be used to describe a data asset from multiple perspectives, including
 - Links to other data assets (syntactic links)
 - Connections to business terms or concepts (semantic links)
 
-  A DPS, on the other hand, can be used to describe a pure data product from multiple perspectives, including:
+  A DPS, on the other hand, can be used to describe a **pure data product** from multiple perspectives, including:
 
 - Types of exposed services (ports)
 - APIs of the exposed services
@@ -50,6 +50,60 @@ A DCS can be used to describe a data asset from multiple perspectives, including
 - Dependencies between products
 
 To better understand the structure and practical applications of DPS e DCS, let’s explore two concrete examples, analyzing them separately before examining their overlaps and potential integrations.
+
+## Open Data Contract Standard
+
+**Open Data Contract Standard (ODCS)** is a well-known example of a Data Contract Standard (DCS) developed by the [Bitol Project](https://bitol.io/).
+
+![Open Data Contract Standard (ODCS)](./images/2025-B002-03-odcs.png)
+
+In ODCS’s [metamodel], a data asset is represented as an **object** with various **properties**. Each property has a **unique name** within its object and a defined **data type**. The type can be either primitive (e.g., `int`, `string`, `boolean`) or composite (e.g., `object` or `array`).
+
+Thanks to this flexible structure, ODCS can describe both **tabular data assets** — where entries consist solely of primitive types — and **document-based data assets**, where entries can include composite types, creating a nested structure instead of a simple flat one.
+
+To define the structure of a specific data asset, ODCS uses [JSON Schema](https://github.com/bitol-io/open-data-contract-standard/blob/main/schema/odcs-json-schema-latest.json) as its schema definition language (SCD) preferring YAML over JSON as the encoding format.
+
+```yaml
+version: 1.0.0
+
+schema:
+  - name: tbl
+    logicalType: object
+    properties:
+      - name: txn_ref_dt
+        logicalType: date
+      - name: rcvr_id
+        logicalType: string
+      - name: rcvr_cntry_code
+        logicalType: string
+```
+
+Structural elements of the model can be enriched with various descriptive metadata, grouped into the following ten main schema annotation vocabularies:
+
+- **Fundamentals** (e.g., name, version, descriptions…)
+- **Schema** (logical and physical metadata)
+- **Data Quality** (data quality rules and data governance policies)
+- **Pricing** (internal or external costs associated with usage)
+- **Team** (history of team members)
+- **Security** (roles)
+- **SLA** (latency, retention, frequency…)
+- **Infrastructure** (servers, environment, and storage)
+- **Business Rules** (data QoS applied to specific business needs)
+- **Custom** (space for custom needs)
+
+A data contract instance in ODCS is therefore the combination of the structural description of the data asset along with all the relevant metadata needed for its management and usage.
+
+![Elements of an ODCS v3 valid instance](./images/2025-B002-04-odcs-metamodel.png)
+
+Here you can find a [complete example of a data contract instance](https://bitol-io.github.io/open-data-contract-standard/latest/examples/all/full-example.odcs.yaml) compliant with the ODCS.
+
+## Data Product Descriptor Specification
+
+**Data Product Descriptor Specification (DPDS)** is a well-known example of a Data Product Specification (DPS) developed by the [Open Data Mesh Initiative](https://initiative.opendatamesh.org/).
+
+![Data Product Descriptor Specification (DPDS)](./images/2025-B002-05-dpds.png)
+
+
 
   
 

@@ -54,3 +54,24 @@ An object specification should clearly and unambiguously define how to describe 
 📚 Schema Annotation Vocabularies
 
 Let’s take a closer look at each of these.
+
+### 🗺️ A Metamodel
+TODO
+
+### 📜 A Schema Definition Language (SDL)
+TODO
+
+### 📚 Schema Annotation Vocabularies
+TODO
+
+## Putting all together
+
+Once the metamodel, SDL, and supported schema annotation vocabularies are defined, the specification is ready. At this point, you can collect everything into a Git repository and release the first version.
+
+It’s generally helpful to have a [single normative document](https://github.com/andrea-gioia/the-data-joy-spec/blob/main/versions/1.0.0.md) that describes the specification. This document should include a detailed description of the [metamodel](https://github.com/andrea-gioia/the-data-joy-spec/blob/main/versions/1.0.0.md#%EF%B8%8F-metamodel), the [schema definition language](https://github.com/andrea-gioia/the-data-joy-spec/blob/main/versions/1.0.0.md#-schema) used to describe its instances, and supported [vocabularies](https://github.com/andrea-gioia/the-data-joy-spec/blob/main/versions/1.0.0.md#-annotations-vocabularies) for annotating the structure.
+
+Along with this document, it’s useful to share the [SDL definition](https://github.com/andrea-gioia/the-data-joy-spec/blob/main/schemas/1.0.0/schema.json) and [examples](https://github.com/andrea-gioia/the-data-joy-spec/tree/main/examples/1.0.0). Additional documentation, such as a [quickstart guide](https://github.com/andrea-gioia/the-data-joy-spec/blob/main/docs/quickstart.md) or an explanation of the core concepts the specification is based on, can also be valuable.
+
+At [this link](https://github.com/andrea-gioia/the-data-joy-spec), you’ll find the repository used to publish and manage the evolution of the sample specification we have defined together so far.
+
+Now it’s your turn — happy specifying! :)

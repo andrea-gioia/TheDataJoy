@@ -1,4 +1,7 @@
 # Data Contract vs. Data Product Specifications: Friends, Enemies, or Frenemies?
+- *Published on Feb 9, 2025 by [Andrea Gioia](https://github.com/andrea-gioia) on [Medium](https://medium.com/@andrea_gioia/data-contract-vs-data-product-specifications-8ffa3cc16725)*
+
+---
 
 With the rise of **data mesh**, managing **data as a product** has become a hot topic within the data community. This shift has sparked numerous initiatives to define a common specification for formally describing data assets managed as products.
 

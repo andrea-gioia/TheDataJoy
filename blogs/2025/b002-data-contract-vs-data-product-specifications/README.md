@@ -304,13 +304,13 @@ Using them together also helps prevent the creation of monolithic specifications
 Thanks for reading this far! I’m eager to hear your thoughts on DPS and DCS: are they enemies, friends, or frenemies?
 
 ---
-## More on data specifications…
+## Resources
 
 This blog post is part of a series focused on data specifications. Here are the other posts in the series:
 
-1. How to Define Internal Data Specifications to Govern Your Data Ecosystem
-1. Data Contract vs Data Product Specifications
-1. Composable Data Specifications (coming soon…)
+1. [How to Define Internal Data Specifications to Govern Your Data Ecosystem](https://github.com/andrea-gioia/TheDataJoy/tree/main/blogs/2025/b001-how-to-define-internal-data-specifications)
+1. Data Contract vs Data Product Specifications (this post)
+1. *Composable Data Specifications (coming soon…)*
 
 Other resources…
 

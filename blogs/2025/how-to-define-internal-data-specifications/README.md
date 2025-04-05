@@ -328,4 +328,4 @@ Along with this document, it’s useful to share the [SDL definition](https://gi
 
 At [this link](https://github.com/andrea-gioia/the-data-joy-spec), you’ll find the repository used to publish and manage the evolution of the sample specification we have defined together so far.
 
-Now it’s your turn — happy specifying! :)
+**Now it’s your turn — happy specifying! 😀 **

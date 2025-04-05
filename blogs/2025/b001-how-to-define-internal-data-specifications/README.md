@@ -1,5 +1,5 @@
 # How to Define Internal Data Specifications to Govern Your Data Ecosystem: Hands-on Guide
-- *Published on Feb 2, 2025 by [Andrea Gioia](https://github.com/andrea-gioia) on [Medium](https://medium.com/@andrea_gioia/how-to-define-internal-data-specifications-to-govern-your-data-ecosystem-9d59b3473dfe)*
+- *9 min read - Published on Feb 2, 2025 by [Andrea Gioia](https://github.com/andrea-gioia) on [Medium](https://medium.com/@andrea_gioia/how-to-define-internal-data-specifications-to-govern-your-data-ecosystem-9d59b3473dfe)*
 
 ---
 
@@ -329,3 +329,17 @@ Along with this document, it’s useful to share the [SDL definition](https://gi
 At [this link](https://github.com/andrea-gioia/the-data-joy-spec), you’ll find the repository used to publish and manage the evolution of the sample specification we have defined together so far.
 
 **Now it’s your turn — happy specifying! 😀**
+
+---
+## Resources
+
+This blog post is part of a series focused on data specifications. Here are the other posts in the series:
+
+1. How to Define Internal Data Specifications to Govern Your Data Ecosystem (this post)
+1. [Data Contract vs Data Product Specifications](https://github.com/andrea-gioia/TheDataJoy/tree/main/blogs/2025/b002-data-contract-vs-data-product-specifications)
+1. *Composable Data Specifications (coming soon…)*
+
+Other resources…
+
+📙TODO
+📙Finally, if you’re interested in exploring pure data products, feel free to refer to my book, [“Managing Data as a Product”](https://a.co/d/0Qgawux) 😀

@@ -1,6 +1,8 @@
 # How to Define Internal Data Specifications to Govern Your Data Ecosystem: Hands-on Guide
 *Published on Feb 2, 2025 by [Andrea Gioia](https://github.com/andrea-gioia) on [Medium](https://medium.com/@andrea_gioia/how-to-define-internal-data-specifications-to-govern-your-data-ecosystem-9d59b3473dfe)*
 
+---
+
 In the world of data, we have plenty of specifications — but surprisingly few standards. SQL is one of the rare success stories, a standard that has saved countless resources over the years thanks to its interoperability. But beyond SQL, widely adopted standards are scarce, and this gap poses a major challenge for the entire ecosystem.
 
 Why is this happening? And what can we do to change it? In my next post, I’ll explore ways to foster new standards in the data space. But first, let’s take a step back. What makes a good data specification? And how can you build one from scratch within your organization? In this post, I’ll break down the key elements of an effective specification and share practical steps to create one.

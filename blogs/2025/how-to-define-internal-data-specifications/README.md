@@ -1,5 +1,5 @@
 # How to Define Internal Data Specifications to Govern Your Data Ecosystem: Hands-on Guide
-*Published on Feb 2, 2025 by [Andrea Gioia](https://github.com/andrea-gioia) on [Medium](https://medium.com/@andrea_gioia/how-to-define-internal-data-specifications-to-govern-your-data-ecosystem-9d59b3473dfe)*
+- *Published on Feb 2, 2025 by [Andrea Gioia](https://github.com/andrea-gioia) on [Medium](https://medium.com/@andrea_gioia/how-to-define-internal-data-specifications-to-govern-your-data-ecosystem-9d59b3473dfe)*
 
 ---
 

@@ -1,4 +1,7 @@
 # What I Talk About When I Talk About Data Product
+- *8 min read - Published on Feb 9, 2025 by [Andrea Gioia](https://github.com/andrea-gioia) on [Medium](https://medium.com/@andrea_gioia/what-i-talk-about-when-i-talk-about-data-product-19faa223f91b) and on [Linkedin](https://medium.com/@andrea_gioia/what-i-talk-about-when-i-talk-about-data-product-19faa223f91b)*
+
+---
 
 There’s a lot of buzz around data products these days, but no clear consensus on what the term actually means. As a result, it’s often used to describe entirely different things. Having just finished writing a book on how to manage data as a product, I’m thrilled to see the growing interest in the topic. But I also know the title *Managing Data as a Product* doesn’t give much away about what’s inside. Depending on how I define a data product, the 370 pages of the book might be exactly what you’re looking for — or completely off the mark. To save you the hassle of a potential Amazon return, let me use this blog post to explain what I talk about when I talk about data products.
 

@@ -7,6 +7,8 @@ There’s a lot of buzz around data products these days, but no clear consensus 
 
 (with apologies to [Evan Bottcher](https://martinfowler.com/articles/talk-about-platforms.html))
 
+---
+
 
 ## Data Products Are Software Applications
 For me, a data product is essentially a software application. Like any software, it’s a unit of management made up of interfaces, code, data, and infrastructure. A dataset on its own, even with clear ownership and published on a marketplace for easy consumption, isn’t a data product by itself.

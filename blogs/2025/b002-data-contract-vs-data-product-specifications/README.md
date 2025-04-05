@@ -1,5 +1,5 @@
 # Data Contract vs. Data Product Specifications: Friends, Enemies, or Frenemies?
-- *Published on Feb 9, 2025 by [Andrea Gioia](https://github.com/andrea-gioia) on [Medium](https://medium.com/@andrea_gioia/data-contract-vs-data-product-specifications-8ffa3cc16725)*
+- *10 min read - Published on Feb 9, 2025 by [Andrea Gioia](https://github.com/andrea-gioia) on [Medium](https://medium.com/@andrea_gioia/data-contract-vs-data-product-specifications-8ffa3cc16725)*
 
 ---
 

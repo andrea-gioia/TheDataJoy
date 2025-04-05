@@ -1,6 +1,11 @@
 # Posts Archive
 😀 I’m sharing all this material with joy for you to use freely, as long as you follow the [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/)
 
+## 2025
+
+📌 [001-multi-agent-systems](./2025/001-multi-agent-systems.md)<br>
+📌 [002-modular-data-solution](./2025/002-modular-data-solution.md)<br>
+
 ## 2024
 
 📌 [001-semantic-gap](./2024/001-semantic-gap.md)<br>

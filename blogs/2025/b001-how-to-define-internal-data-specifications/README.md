@@ -342,4 +342,5 @@ This blog post is part of a series focused on data specifications. Here are the 
 Other resources…
 
 📙TODO
+
 📙Finally, if you’re interested in exploring pure data products, feel free to refer to my book, [“Managing Data as a Product”](https://a.co/d/0Qgawux) 😀

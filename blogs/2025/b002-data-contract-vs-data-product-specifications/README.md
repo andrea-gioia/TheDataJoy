@@ -265,7 +265,7 @@ Through the `x-dataContract` custom property of type **Standard Definition Compo
 
 The same approach applies to ODCS, where the [`customProperties`](https://bitol-io.github.io/open-data-contract-standard/latest/#custom-properties) object can be used to specify the fully qualified name of the output port within a data product — defined using DPDS — that exposes the data asset governed by the data contract.
 
-```json
+```yaml
 version: 1.0.0
 
 schema:

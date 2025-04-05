@@ -16,6 +16,8 @@
 
 [#TheDataJoy](https://www.linkedin.com/feed/hashtag/?keywords=thedatajoy) **#knowledgeGraph #ontology #graphRAG #semanticSearch**
 
+## Image
+
 ![2024-P019-composability.png](/images/2024/2024-P054-knowledge-driven-data-access.png)
 
 [draw.io](https://app.diagrams.net/) source of the image is available [here](/images/2024/2024.drawio) 

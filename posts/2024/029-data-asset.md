@@ -18,6 +18,8 @@
 
 [#TheDataJoy](https://www.linkedin.com/feed/hashtag/?keywords=thedatajoy) **#dataproducts #dataasset**
 
+## Image
+
 ![2024-P029-data-asset.png](/images/2024/2024-P029-data-asset.png)
 
 [draw.io](https://app.diagrams.net/) source of the image is available [here](/images/2024/2024.drawio) 

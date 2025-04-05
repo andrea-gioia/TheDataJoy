@@ -23,6 +23,8 @@ To this end, there are two other fundamental components:
 
 [#TheDataJoy](https://www.linkedin.com/feed/hashtag/?keywords=thedatajoy)
 
+## Image
+
 ![2024-P026-dpc-components.png](/images/2024/2024-P026-dpc-components.png)
 
 [draw.io](https://app.diagrams.net/) source of the image is available [here](/images/2024/2024.drawio) 

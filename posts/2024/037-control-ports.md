@@ -21,6 +21,8 @@ product's behavior after deployment, but within the boundaries defined in the re
 
 [#TheDataJoy](https://www.linkedin.com/feed/hashtag/?keywords=thedatajoy) **#dataProducts**
 
+## Image
+
 ![2024-P019-composability.png](/images/2024/2024-P037-control-ports.png)
 
 [draw.io](https://app.diagrams.net/) source of the image is available [here](/images/2024/2024.drawio) 

@@ -14,6 +14,9 @@
 
 [#TheDataJoy](https://www.linkedin.com/feed/hashtag/?keywords=thedatajoy)
 
+## Image
+
+
 ![2024-P019-composability.png](/images/2024/2024-P025-dpc-shift-left.png)
 
 [draw.io](https://app.diagrams.net/) source of the image is available [here](/images/2024/2024.drawio) 

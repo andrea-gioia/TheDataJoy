@@ -20,6 +20,8 @@ By embracing these advancements, data catalogs can transform from static lists t
 
 [#TheDataJoy](https://www.linkedin.com/feed/hashtag/?keywords=thedatajoy)y **hashtag#datacatalogs #dataproducts**
 
+## Image
+
 ![2024-P021-Semantic-search.png](/images/2024/2024-P021-Semantic-search.png)
 
 [draw.io](https://app.diagrams.net/) source of the image is available [here](/images/2024/2024.drawio) 

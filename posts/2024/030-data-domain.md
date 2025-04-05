@@ -24,6 +24,8 @@ Within a company, we can identify domains based on either the organizational str
 
 [#TheDataJoy](https://www.linkedin.com/feed/hashtag/?keywords=thedatajoy)
 
+## Image
+
 ![2024-P030-data-domain.png](/images/2024/2024-P030-data-domain.png)
 
 [draw.io](https://app.diagrams.net/) source of the image is available [here](/images/2024/2024.drawio) 

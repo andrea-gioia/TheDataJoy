@@ -24,6 +24,8 @@ These four 'ilities' are closely related to the value of data, managed as a part
 
 [#TheDataJoy](https://www.linkedin.com/feed/hashtag/?keywords=thedatajoy) **#DataProducts**
 
+## Image
+
 ![/images/2024/2024-P028-pdp-ilities.png](/images/2024/2024-P028-pdp-ilities.png)
 
 [draw.io](https://app.diagrams.net/) source of the image is available [here](/images/2024/2024.drawio) 

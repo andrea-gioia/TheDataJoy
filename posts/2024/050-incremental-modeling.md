@@ -16,6 +16,9 @@
 
 [#TheDataJoy](https://www.linkedin.com/feed/hashtag/?keywords=thedatajoy) **InformationArchitecture #DataProducts #KnowledgeEngineering #DataModeling #ontology**
 
+## Image
+
+
 ![2024-P019-composability.png](/images/2024/2024-P050-incremental-modeling.png)
 
 [draw.io](https://app.diagrams.net/) source of the image is available [here](/images/2024/2024.drawio) 

@@ -23,6 +23,8 @@ While analytical applications unlock the value hidden within data for specific u
 
 [#TheDataJoy](https://www.linkedin.com/feed/hashtag/?keywords=thedatajoy)
 
+## Image
+
 ![2024-P027-pure-data-product.png](/images/2024/2024-P027-pure-data-product.png)
 
 [draw.io](https://app.diagrams.net/) source of the image is available [here](/images/2024/2024.drawio) 

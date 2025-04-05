@@ -16,6 +16,8 @@
 
 [#TheDataJoy](https://www.linkedin.com/feed/hashtag/?keywords=thedatajoy) **#dataProducts #boundedContexts #DDD**
 
+## Image
+
 ![2024-P019-composability.png](/images/2024/2024-P034-Context-mapping.png)
 
 [draw.io](https://app.diagrams.net/) source of the image is available [here](/images/2024/2024.drawio) 
